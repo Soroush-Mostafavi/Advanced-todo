@@ -1,0 +1,411 @@
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgb(122, 98, 98);
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.darkandlight {
+  display: flex;
+  justify-content: center;
+}
+
+.imagetogglemode{
+  display: flex;
+  justify-content: center;
+}
+/* //////////////////////////////////////////////////////////////////////////// */
+
+ .motionicon{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #f9f9f9;
+}
+.emoji {
+  font-size: calc(25px );
+  min-width: 10px;
+  margin: 5px 5px;
+  text-align: center;
+}
+
+.emoji::after {
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.clock::after {
+  content: '🕛';
+  animation-name: clock;
+  animation-duration: 5s;
+}
+
+.mailbox::after {
+  content: '📪';
+  animation-name: mailbox;
+  animation-duration: 2.5s;
+}
+
+.camera::after {
+  content: '📷';
+  --emoji: '📸';
+  animation-name: twoFrames;
+  animation-duration: 1.2s;
+}
+
+.hourglass::after {
+  content: '⏳';
+  --emoji: '⌛️';
+  animation-name: twoFrames;
+  animation-duration: 1.2s;
+}
+
+.earth::after {
+  content: '🌎';
+  --emoji-1: '🌍';
+  --emoji-2: '🌏';
+  animation-name: threeFrames;
+  animation-duration: 1.5s;
+}
+
+.moon::after {
+  content: '🌕';
+  animation-name: moon;
+  animation-duration: 1s;
+}
+
+.bomb::after {
+  content: '💣';
+  --emoji: '💥';
+  animation-name: twoFrames;
+  animation-duration: 2s;
+}
+
+.monkey::after {
+  content: '🙈';
+  --emoji-1: '🙉';
+  --emoji-2: '🙊';
+  animation-name: threeFrames;
+  animation-duration: 2s;
+}
+
+.hearts::after {
+  content: '💗';
+  animation-name: hearts;
+  animation-duration: 3s;
+}
+
+.wave::after {
+  content: '✋';
+  --emoji: '👋';
+  animation-name: twoFrames;
+  animation-duration: 1s;
+}
+
+.inbox::after {
+  content: '📥';
+  --emoji: '📤';
+  animation-name: twoFrames;
+  animation-duration: 1s;
+}
+
+.vomit::after {
+  content: '🤢';
+  --emoji: '🤮';
+  animation-name: twoFrames;
+  animation-duration: 1s;
+}
+
+@keyframes twoFrames {
+  50% {
+      content: var(--emoji);
+  }
+}
+
+@keyframes threeFrames {
+  33.333% {
+      content: var(--emoji-1);
+  }
+
+  66.666% {
+      content: var(--emoji-2);
+  }
+}
+
+@keyframes mailbox {
+  25% {
+      content: '📫';
+  }
+
+  50% {
+      content: '📬';
+  }
+
+  75% {
+      content: '📭';
+  }
+}
+
+@keyframes hearts {
+  16.666% {
+      content: '🧡';
+  }
+
+  33.333% {
+      content: '💛';
+  }
+
+  50% {
+      content: '💚';
+  }
+
+  66.666% {
+      content: '💙';
+  }
+
+  83.333% {
+      content: '💜';
+  }
+}
+
+@keyframes moon {
+  12.5% {
+      content: '🌖';
+  }
+
+  25% {
+      content: '🌗';
+  }
+
+  37.5% {
+      content: '🌘 ';
+  }
+
+  50% {
+      content: '🌑';
+  }
+
+  62.5% {
+      content: '🌒';
+  }
+
+  75% {
+      content: '🌓';
+  }
+
+  87.5% {
+      content: '🌔';
+  }
+}
+
+@keyframes clock {
+  8.333% {
+      content: '🕐';
+  }
+
+  16.666% {
+      content: '🕑';
+  }
+
+  25% {
+      content: '🕒';
+  }
+
+  33.333% {
+      content: '🕓';
+  }
+
+  41.666% {
+      content: '🕔';
+  }
+
+  50% {
+      content: '🕕';
+  }
+
+  58.333% {
+      content: '🕖';
+  }
+
+  66.666% {
+      content: '🕗';
+  }
+
+  75% {
+      content: '🕘';
+  }
+
+  83.333% {
+      content: '🕙';
+  }
+
+  91.666% {
+      content: '🕚';
+  }
+}
+
+
+.completed{
+  opacity: 0.8;
+  text-decoration: line-through;
+}
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+
+.log{
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.modalBackground{
+  
+ margin-right: 20%;
+ margin-top: 10%;
+ bottom: 150px;
+  width: 100vh;
+  height: 100vh;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalcontainersign{
+  background-color: #bdbfc2;
+
+  width: 450px;
+  height: 300px;
+
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0,0.35)0px 5px 15px ; 
+}
+
+.modalcontainersign .footer{
+  width:100px;
+  height: 45px;
+  margin: 10px;
+  border: none;
+  font-size: 20px;
+  border-radius: 8px;
+}
+.modalcontainer{
+  background-color: #bdbfc2;
+
+  width: 300px;
+  height: 300px;
+ 
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0,0.35)0px 5px 15px ; 
+}
+.modalcontainer .footer{
+  width:100px;
+  height: 45px;
+  margin: 10px;
+  border: none;
+  font-size: 20px;
+  border-radius: 8px;
+}
+.btnform{
+  border-radius: 45px;
+}
+
+
+
+
+
+
+
+
+
+
