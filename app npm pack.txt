@@ -1,0 +1,19 @@
+all npm package if use on this app    ⬇⬇⬇⬇⬇⬇
+
+
+
+1-  styled-components
+
+2- react-i18next
+
+3- i18next-xhr-backend
+
+4- i18next-browser-languagedetector
+
+5-react-zoom-pan-pinch --force
+
+6-react-icons
+
+
+
+//////////////////////////////////////////////////////////////
