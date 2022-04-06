@@ -1,0 +1,61 @@
+.todo{
+    background-image: url('../assets/img/todo.png');
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+
+.todoinput{
+    opacity: 0.5;
+    border-radius: 20px;
+    
+}
+.todocircle{
+border-radius: 20px;
+background-color: white;
+}
+.todowidth{
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    
+}
+
+
+.tableback{
+    height: 100vh;
+    background-image: url('../assets/img/images.jpg');
+   
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   text-emphasis-color: black;
+   font-size:25px;
+   
+}
+.tablemovie{
+    opacity: 0.9;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    font-size: 20px;
+    font-style: italic;
+    color: brown;
+   
+    
+}
+
+.login{
+    background-image: url('../assets/img/login1.png');
+    background-size:100% 110% ;
+    
+
+}
+
+.register{
+    background-image: url('../assets/img/register.jpeg');
+    background-size:100% 110% ;
+    
+}
+
+
