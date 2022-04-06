@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+adimport React, { Fragment } from "react";
 const MainMode = ({
     toggleMode,
     toggleName,
