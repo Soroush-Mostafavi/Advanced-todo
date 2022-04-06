@@ -4,11 +4,11 @@ import { ThemeProvider } from "styled-components";
 import { lightTheme, darkTheme } from "./theme/theme";
 import { GlobalStyles } from "./GlobalStyles";
 import "./App.css";
-import Navbar from "./components/nav/Navbar";
-import Todo from "./components/todo/Todo";
-import Todolist from "./components/todo/Todolist";
-import Headerline from "./components/header/Header";
-import MainMode from "./components/Main/Main";
+import Navbar from "./Components/nav/Navbar";
+import Todo from "./Components/todo/Todo";
+import Todolist from "./Components/todo/Todolist";
+import Headerline from "./Components/Header/Header";
+import MainMode from "./Components/Main/Main";
 
 const Tpp = () => {
   const { t } = useTranslation();
