@@ -1,5 +1,5 @@
 import React from "react";
-
+import DateTime from "../date/Datetime";
 
   return (
     <div className="text-center">
@@ -9,7 +9,7 @@ import React from "react";
       </h1>
       <div className="mt-3">
         {" "}
-       
+       <DateTime />
       </div>
       <div className="d-flex">
         <h4 style={{ width: "200px" }}>Language : </h4>
