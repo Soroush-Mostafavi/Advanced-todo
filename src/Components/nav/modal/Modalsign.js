@@ -2,17 +2,18 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 
 function ModalSignin({ closemodal }) {
- 
+  const { t } = useTranslation();
+
   return (
     <div className="modalBackground">
       <div className="modalcontainersign">
-     <h2 className="text-center">SIGN IN  </h2>
+     <h2 className="text-center">{t("SIGN IN.1")}  </h2>
         <div className="title"></div>
         <div className="body container">
 
         <div className="mt-4 ">
             <label for="uname" className="mr-4">
-              <b>Email :</b>
+              <b>{t("Email.1")} :</b>
             </label>
             <input
                style={{borderRadius:"10px"}}
@@ -24,7 +25,7 @@ function ModalSignin({ closemodal }) {
           </div>
           <div className="mt-4 ">
             <label for="uname" className="mr-4">
-              <b>Username :</b>
+              <b>{t("Username.2")} :</b>
             </label>
             <input
                style={{borderRadius:"10px"}}
@@ -37,7 +38,7 @@ function ModalSignin({ closemodal }) {
 
           <div className="mt-4">
             <label for="psw" className="mr-4">
-              <b>Password : </b>
+              <b>{t("Password.2")} : </b>
             </label>
             <input
                style={{borderRadius:"10px"}}
@@ -50,15 +51,15 @@ function ModalSignin({ closemodal }) {
 
           <div className="mt-2">
             <label className="mr-4" style={{fontSize:"10px" , fontWeight:"bold"}}>
-              <input type="checkbox" name="remember" />Remember me
+              <input type="checkbox" name="remember" />{t("Remember me.1")}
             </label>
             <button
             className="btn btn-danger mr-3 btnform"
             onClick={() => closemodal(false)}
           >
-            Cancel{" "}
+            {t("Cancel.1")}{" "}
           </button>
-          <button className="btn btn-success btnform">Continue</button>
+          <button className="btn btn-success btnform"> {t("Continue.1")}</button>
           </div>
         </div>
    

@@ -1,7 +1,7 @@
 import React from "react";
-
+import { useTranslation } from 'react-i18next';
 function Modal({ closemodal }) {
-
+  const { t } = useTranslation();
   return (
     <div className="modalBackground">
       <div className="modalcontainer">
@@ -11,7 +11,7 @@ function Modal({ closemodal }) {
           <form>
             <div className="mt-4 ">
               <label for="uname" className="mr-4">
-                <b>Username :</b>
+                <b>{t("Username.1")} :</b>
               </label>
               <input
                 style={{ borderRadius: "10px" }}
@@ -23,7 +23,7 @@ function Modal({ closemodal }) {
 
             <div className="mt-4">
               <label for="psw" className="mr-4">
-                <b>Password : </b>
+                <b>{t("Password.1")} : </b>
               </label>
               <input
                 style={{ borderRadius: "10px" }}
@@ -39,11 +39,11 @@ function Modal({ closemodal }) {
             className="btn btn-danger mr-3 btnform"
             onClick={() => closemodal(false)}
           >
-          Cancel
+            {t("Cancel.1")}{" "}
           </button>
           <button type="submit" className="btn btn-success btnform">
             {" "}
-           Continue
+            {t("Continue.1")}
           </button>
         </div>
       </div>
