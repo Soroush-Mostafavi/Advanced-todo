@@ -1,0 +1,18 @@
+import React, { Fragment } from "react";
+const MainMode = () => {
+  return (
+    <Fragment>
+      {" "}<div className="container mt-2 d-flex">
+      <div className="mt-4 mr-3" style={{ marginTop: "15px" }}>
+       
+      </div>
+      <label class="switch mt-4" style={{ marginTop: "25px" }}>
+        <input type="checkbox" />
+        <span class="slider round"></span>
+      </label>
+      <div className="mt-3 ml-4"></div></div>
+    </Fragment>
+  );
+};
+
+export default  MainMode ;
