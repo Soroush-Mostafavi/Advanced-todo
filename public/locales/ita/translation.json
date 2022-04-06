@@ -1,0 +1,107 @@
+{
+    "cv": {
+      "1": "Curriculum vitae"
+    },
+    "Builder": {
+      "1": "Costruttore"
+    },
+    "Language": {
+      "1": "Lingua"
+    },
+    "LOG IN": {
+      "1": "ACCESSO"
+    },
+    "SIGN IN": {
+      "1": "REGISTRAZIONE"
+    },
+  
+    "Username": {
+      "1": "Nome utente"
+    },
+    "Password": {
+      "1": "Parola d'ordine"
+    },
+    "Cancel": {
+      "1": "Annulla"
+    },
+    "Continue": {
+      "1": "Continua"
+    },
+    "Email": {
+      "1": "E-mail"
+    },
+    "Remember me": {
+      "1": "Ricordati di me"
+    },
+    "Light Mode": {
+      "1": "Modalità luce"
+    },
+    "Dark Mode": {
+      "1": "Modalità scura"
+    },
+    "Enter your information and then click the submit button": {
+      "1": "Inserisci le tue informazioni e quindi fai clic sul pulsante di invio"
+    },
+    "Name": {
+      "1": "nome"
+    },
+    "Phone": {
+      "1": "Telefono"
+    },
+    "Date": {
+      "1": "Data"
+    },
+    "professional": {
+      "1": "professionale"
+    },
+    "Code Address": {
+      "1": "Codice Indirizzo"
+    },
+    "City/Town": {
+      "1": "città/paese"
+    },
+    "Education": {
+      "1": "F scolastica"
+    },
+    "The work done": {
+      "1": "Il lavoro fatto"
+    },
+    "Unworked": {
+      "1": "non lavorato "
+    },
+    "Registered works": {
+      "1": "Opere registrate"
+    }
+    ,
+    "All": {
+      "1": "Tutto"
+    },
+    "Completed": {
+      "1": "Completato"
+    },
+    "Uncompleted": {
+      "1": "Incompleto"
+    },
+    "Send": {
+      "1": "Spedire"
+    },
+    "MAN": {
+      "1": "UOMO"
+    },
+    "WOMAN": {
+      "1": "DONNA"
+    },
+    "Information": {
+      "1": "Informazione"
+    },
+    "Web Designer": {
+      "1": "Web designer"
+    },
+    "Address": {
+      "1": "Indirizzo"
+    },
+    "the profession": {
+      "1": "la professione"
+    }
+  }
+  

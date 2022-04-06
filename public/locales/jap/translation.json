@@ -1,0 +1,106 @@
+{
+    "cv": {
+      "1": "履歴書"
+    },
+    "Builder": {
+      "1": "ビルダー"
+    },
+    "Language": {
+      "1": "言語"
+    },
+    "LOG IN": {
+      "1": "ログインする"
+    },
+    "SIGN IN": {
+      "1": "ログイン"
+    },
+  
+    "Username": {
+      "1": "ユーザー名"
+    },
+    "Password": {
+      "1": "パスワード"
+    },
+    "Cancel": {
+      "1": "キャンセル"
+    },
+    "Continue": {
+      "1":"継続する"
+    },
+    "Email": {
+      "1": "Eメール"
+    },
+    "Remember me": {
+      "1": "私を覚えてますか"
+    },
+    "Light Mode": {
+      "1": "ライトモード"
+    },
+    "Dark Mode": {
+      "1": "ダークモード"
+    },
+    "Enter your information and then click the submit button": {
+      "1": "情報を入力し、送信ボタンをクリックしてください"
+    },
+    "Name": {
+      "1": "名前"
+    },
+    "Phone": {
+      "1": "電話"
+    },
+    "Date": {
+      "1": "電話"
+    },
+    "professional": {
+      "1": "プロフェッショナル"
+    },
+    "Code Address": {
+      "1": "コードアドレス"
+    },
+    "City/Town": {
+      "1": "市/町"
+    },
+    "Education": {
+      "1": "教育"
+    },
+    "The work done": {
+      "1": "行われた作業"
+    },
+    "Unworked": {
+      "1": "未加工"
+    },
+    "Registered works": {
+      "1": "登録作品"
+    }
+    ,
+    "All": {
+      "1": "全て"
+    },
+    "Completed": {
+      "1": "完了"
+    },
+    "Uncompleted": {
+      "1": "未完成"
+    },
+    "Send": {
+      "1": "送信"
+    },   "MAN": {
+      "1": "男 "
+    },
+    "WOMAN": {
+      "1": "女性"
+    },
+    "Information": {
+      "1": "情報"
+    },
+    "Web Designer": {
+      "1": "ウェブデザイナー"
+    },
+    "Address": {
+      "1": "住所"
+    },
+    "the profession": {
+      "1": "職業"
+    }
+  }
+  

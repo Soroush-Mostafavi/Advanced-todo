@@ -1,0 +1,107 @@
+{
+    "cv": {
+      "1": "Lebenslauf"
+    },
+    "Builder": {
+      "1": "Baumeister"
+    },
+    "Language": {
+      "1": "Sprache"
+    },
+    "LOG IN": {
+      "1": "EINLOGGEN"
+    },
+    "SIGN IN": {
+      "1": "EINLOGGEN"
+    },
+  
+    "Username": {
+      "1": "Nutzername"
+    },
+    "Password": {
+      "1": "Passwort"
+    },
+    "Cancel": {
+      "1": "Abbrechen"
+    },
+    "Continue": {
+      "1": "Weitermachen"
+    },
+    "Email": {
+      "1": "Email"
+    },
+    "Remember me": {
+      "1": "Erinnere dich an mich "
+    },
+    "Light Mode": {
+      "1": "Lichtmodus"
+    },
+    "Dark Mode": {
+      "1": "Dunkler Modus"
+    },
+    "Enter your information and then click the submit button": {
+      "1": "Geben Sie Ihre Daten ein und klicken Sie dann auf die Schaltfläche „Senden“"
+    },
+    "Name": {
+      "1": "Name"
+    },
+    "Phone": {
+      "1": "Telefon"
+    },
+    "Date": {
+      "1": "Datum"
+    },
+    "professional": {
+      "1": "Fachfrau"
+    },
+    "Code Address": {
+      "1": "Codeadresse"
+    },
+    
+    "City/Town": {
+      "1": "Stadt/Stadt"
+    },
+    "Education": {
+      "1": "Ausbildung"
+    },
+    "The work done": {
+      "1": "Die Arbeit erledigt"
+    },
+    "Unworked": {
+      "1": "Unbearbeitet"
+    },
+    "Registered works": {
+      "1": "Eingetragene Werke"
+    }
+    ,
+    "All": {
+      "1": "Alle"
+    },
+    "Completed": {
+      "1": "Vollendet"
+    },
+    "Uncompleted": {
+      "1": "Unvollendet"
+    },
+    "Send": {
+      "1": "Senden"
+    },"MAN": {
+      "1": "MANN"
+    },
+    "WOMAN": {
+      "1": "FRAU"
+    },
+    "Information": {
+      "1": "Information"
+    },
+    "Web Designer": {
+      "1": "Webdesigner"
+    },
+    "Address": {
+      "1": "Die Anschrift"
+    },
+    "the profession": {
+      "1": "der Beruf "
+    }
+  }
+  

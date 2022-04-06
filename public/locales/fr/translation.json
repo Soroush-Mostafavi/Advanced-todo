@@ -1,0 +1,109 @@
+{
+  "cv": {
+    "1": "Curriculum Vitae"
+  },
+  "Builder": {
+    "1": "Constructeur"
+  },
+  "Language": {
+    "1": "Langue"
+  },
+  "LOG IN": {
+    "1": " CONNEXION"
+  },
+  "SIGN IN": {
+    "1": "S'IDENTIFIER"
+  },
+  " Username": {
+    "1": "Nom d'utilisateur"
+  },
+  "Username": {
+    "2": "Nom d'utilisateur"
+  },
+  "Password": {
+    "1": "Mot de passe "
+  },
+  " Password": {
+    "2": "Mot de passe "
+  },
+  "Cancel": {
+    "1": "Annuler"
+  },
+  "Continue": {
+    "1": "Continuer"
+  },
+  "Email": {
+    "1": "E-mail"
+  },
+  "Remember me": {
+    "1": "Souviens-toi de moi"
+  },
+  "Light Mode": {
+    "1": "Mode lumière"
+  },
+  "Dark Mode": {
+    "1": "Mode sombre"
+  },
+  "Enter your information and then click the submit button": {
+    "1": "Entrez vos informations puis cliquez sur le bouton Soumettre"
+  },
+  "Name": {
+    "1": "Nom"
+  }, "Phone": {
+    "1": "Téléphone"
+  },
+  "Date": {
+    "1": "Date"
+  },
+  "professionnel": {
+    "1": "professional"
+  },
+  "Code Address": {
+    "1": "Adresse de code"
+  },
+  "City/Town": {
+    "1": "Ville/Ville"
+  },
+  "Education": {
+    "1": "Éducation"
+  },
+  "The work done": {
+    "1": "Le travail accompli"
+  },
+  "Unworked": {
+    "1": "non travaillé"
+  },
+  "Registered works": {
+    "1": "uvres enregistrées"
+  },
+  "All": {
+    "1": "Tout"
+  },
+  "Completed": {
+    "1": "Complété"
+  },
+  "Uncompleted": {
+    "1": "Inachevé"
+  },
+  "Send": {
+    "1": "Envoyer"
+  },
+  "MAN": {
+    "1": "HOMME"
+  },
+  "WOMAN": {
+    "1": "FEMME"
+  },
+  "Information": {
+    "1": "Informations"
+  },
+  "Web Designer": {
+    "1": "Concepteur Web "
+  },
+  "Address": {
+    "1": "Adresse"
+  },
+  "the profession": {
+    "1": "la profession"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "cv": {
+    "1": "Curriculum Vitae"
+  },
+  "Builder": {
+    "1": "Builder"
+  },
+  "Language": {
+    "1": "Language"
+  },
+  "LOG IN": {
+    "1": "LOG IN"
+  },
+  "SIGN IN": {
+    "1": "SIGN IN"
+  },
+
+  "Username": {
+    "1": "Username"
+  },
+  "Password": {
+    "1": "Password"
+  },
+  "Cancel": {
+    "1": "Cancel"
+  },
+  "Continue": {
+    "1": "Continue"
+  },
+  "Email": {
+    "1": "Email"
+  },
+  "Remember me": {
+    "1": "Remember me"
+  },
+  "Light Mode": {
+    "1": "Light Mode"
+  },
+  "Dark Mode": {
+    "1": "Dark Mode"
+  },
+  "Enter your information and then click the submit button": {
+    "1": "Enter your information and then click the submit button"
+  },
+  "Name": {
+    "1": "Name"
+  },
+  "Phone": {
+    "1": "Phone"
+  },
+  "Date": {
+    "1": "Date"
+  },
+  "professional": {
+    "1": "professional"
+  },
+  "Code Address": {
+    "1": "Code Address"
+  },
+  "City/Town": {
+    "1": "City/Town"
+  },
+  "Education": {
+    "1": "Education"
+  },
+  "The work done": {
+    "1": "The work done"
+  },
+  "Unworked": {
+    "1": "Unworked"
+  },
+  "Registered works": {
+    "1": "Registered works"
+  }
+  ,
+  "All": {
+    "1": "All"
+  },
+  "Completed": {
+    "1": "Completed"
+  },
+  "Uncompleted": {
+    "1": "Uncompleted"
+  },
+  "Send": {
+    "1": "Send"
+  },
+  "MAN": {
+    "1": "MAN"
+  },
+  "WOMAN": {
+    "1": "WOMAN"
+  },
+  "Information": {
+    "1": "Information"
+  },
+  "Web Designer": {
+    "1": "Web Designer"
+  },
+  "Address": {
+    "1": "Address"
+  },
+  "the profession": {
+    "1": "the profession"
+  }
+}

@@ -1,0 +1,106 @@
+{
+    "cv": {
+      "1": "이력서"
+    },
+    "Builder": {
+      "1": "빌더"
+    },
+    "Language": {
+      "1": "언어"
+    },
+    "LOG IN": {
+      "1": "로그인"
+    },
+    "SIGN IN": {
+      "1": "로그인"
+    },
+  
+    "Username": {
+      "1": "사용자 이름"
+    },
+    "Password": {
+      "1": "비밀번호"
+    },
+    "Cancel": {
+      "1": "취소"
+    },
+    "Continue": {
+      "1": "계속하다"
+    },
+    "Email": {
+      "1": "이메일"
+    },
+    "Remember me": {
+      "1": "날 기억해 "
+    },
+    "Light Mode": {
+      "1": "라이트 모드"
+    },
+    "Dark Mode": {
+      "1": "다크 모드"
+    },
+    "Enter your information and then click the submit button": {
+      "1": "정보 입력 후 제출 버튼 클릭"
+    },
+    "Name": {
+      "1": "이름"
+    },
+    "Phone": {
+      "1": "핸드폰"
+    },
+    "Date": {
+      "1": "날짜"
+    },
+    "professional": {
+      "1": "전문적인"
+    },
+    "Code Address": {
+      "1": "코드 주소"
+    },
+    "City/Town": {
+      "1": "시/마을"
+    },
+    "Education": {
+      "1": "교육"
+    },
+    "The work done": {
+      "1": "작업 완료"
+    },
+    "Unworked": {
+      "1": "일하지 않은"
+    },
+    "Registered works": {
+      "1": "등록된 작품"
+    }
+    ,
+    "All": {
+      "1": "모두"
+    },
+    "Completed": {
+      "1": "완전한"
+    },
+    "Uncompleted": {
+      "1": "미완성"
+    },
+    "Send": {
+      "1": "보내다"
+    }  , "MAN": {
+      "1": "남성"
+    },
+    "WOMAN": {
+      "1": "여성"
+    },
+    "Information": {
+      "1": "정보"
+    },
+    "Web Designer": {
+      "1": "웹 디자이너"
+    },
+    "Address": {
+      "1": "주소"
+    },
+    "the profession": {
+      "1": "직업"
+    }
+  }
+  

@@ -1,0 +1,107 @@
+{
+    "cv": {
+      "1": "Curriculum vitae"
+    },
+    "Builder": {
+      "1": "Bouwer"
+    },
+    "Language": {
+      "1": "Taal"
+    },
+    "LOG IN": {
+      "1": "LOG IN"
+    },
+    "SIGN IN": {
+      "1": "INLOGGEN"
+    },
+  
+    "Username": {
+      "1": "gebruikersnaam"
+    },
+    "Password": {
+      "1": "Wachtwoord"
+    },
+    "Cancel": {
+      "1": "Annuleren"
+    },
+    "Continue": {
+      "1": "Doorgaan met"
+    },
+    "Email": {
+      "1": "Email"
+    },
+    "Remember me": {
+      "1": "Onthoud me"
+    },
+    "Light Mode": {
+      "1": "Lichtmodus"
+    },
+    "Dark Mode": {
+      "1": "Donkere modus"
+    },
+    "Enter your information and then click the submit button": {
+      "1": "Voer uw gegevens in en klik vervolgens op de verzendknop"
+    },
+    "Name": {
+      "1": "Naam"
+    },
+    "Phone": {
+      "1": "Telefoon"
+    },
+    "Date": {
+      "1": "Datum"
+    },
+    "professional": {
+      "1": "professioneel"
+    },
+    "Code Address": {
+      "1": "Code Adres"
+    },
+    "City/Town": {
+      "1": "Stad/plaats"
+    },
+    "Education": {
+      "1": "Opleiding"
+    },
+    "The work done": {
+      "1": "Het werk is klaar"
+    },
+    "Unworked": {
+      "1": "onbewerkt"
+    },
+    "Registered works": {
+      "1": "Geregistreerde werken"
+    }
+    ,
+    "All": {
+      "1": "Alle"
+    },
+    "Completed": {
+      "1": "Voltooid"
+    },
+    "Uncompleted": {
+      "1": "onvoltooid"
+    },
+    "Send": {
+      "1": "Versturen"
+    },
+    "MAN": {
+      "1": "MENS"
+    },
+    "WOMAN": {
+      "1": "VROUW"
+    },
+    "Information": {
+      "1": "Informatie"
+    },
+    "Web Designer": {
+      "1": "Webdesigner"
+    },
+    "Address": {
+      "1": "Adres"
+    },
+    "the profession": {
+      "1": "het beroep "
+    }
+  }
+  
